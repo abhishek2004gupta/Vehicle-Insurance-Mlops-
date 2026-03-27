@@ -2,7 +2,8 @@
 credentials.txt
 artifact/
 firstproj_accessKeys.csv
-
+proj1key.pem
+image.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
